@@ -36,7 +36,7 @@ graphlens/
 
 ### Requirements
 - Node.js 18+
-- Anthropic API key → https://console.anthropic.com
+- GROQ API key → https://console.groq.com
 
 ### 1. Install dependencies
 ```bash
