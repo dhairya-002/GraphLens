@@ -46,7 +46,7 @@ npm install && npm run install:all
 ### 2. Configure environment
 ```bash
 cp backend/.env.example backend/.env
-# Edit backend/.env and add your ANTHROPIC_API_KEY
+# Edit backend/.env and add your GROQ_API_KEY
 ```
 
 ### 3. Start development
